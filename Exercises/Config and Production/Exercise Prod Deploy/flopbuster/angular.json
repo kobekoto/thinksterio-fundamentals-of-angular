@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "flopbuster"
+    }
+  },
+  "defaultProject": "flopbuster",
+  "cli": {
+    "analytics": "ae1819ae-85b8-4381-aa40-b7941da77009"
+  }
 }
